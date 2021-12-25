@@ -5,3 +5,6 @@ jenkins
 cloudwatch
 rds
 terraform
+cloudwatch
+rds
+terraform
